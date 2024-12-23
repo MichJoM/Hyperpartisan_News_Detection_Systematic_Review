@@ -16,7 +16,7 @@ Contained within this repository are the search findings pertaining to our syste
 
 ### Screened papers
 Paper_selection_fase_1.csv and Paper_selection_fase_2.csv corresponds to the following steps in the PRISMA flow diagram: Identification and Screening. The remaining papers are in total 81.
-The file GRADE_bias_analysis_paper.csv contains detailed results from the risk of bias assessment conducted as part of our systematic review. Additionally, summary_table.pdf provides a comprehensive summary of all the studies included in the review, presenting key information and evaluation metrics.
+The file GRADE_bias_analysis_paper.csv contains detailed results from the risk of bias assessment conducted as part of our systematic review. Additionally, summary_table.pdf provides a comprehensive summary of all the studies included in the review, presenting the key information extracted.
 
 ### Usage
   To replicate our methodology and validate our findings:
