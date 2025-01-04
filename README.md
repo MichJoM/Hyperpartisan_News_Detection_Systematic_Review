@@ -22,6 +22,11 @@ primary_data.pdf and primary_data.csv are a numbered table of the studies identi
 
 The files CASP_bias_analysis_paper.pdf and CASP_bias_analysis_paper.csv contain detailed results from the risk of bias assessment conducted as part of our systematic review. We applied the CASP checklist (https://casp-uk.net/casp-tools-checklists/).
 
+### Handling missing data
+During the screening process all the papers have been successfully retrieved. 
+When authors did not provide information, we inserted N/A in the corresponding cell (e.g. missing metrics). 
+In the table describing datasets (Table 8), the column "Dataset" reports the name of the dataset indicated by authors. When authors did not provide any, we inserted "No Name" in the corresponding cell. 
+
 ### Usage
   To replicate our methodology and validate our findings:
   - Read the section "Methodology" in our paper, in order to understand the databases used and the keywords combinations used to retrieve documents.
