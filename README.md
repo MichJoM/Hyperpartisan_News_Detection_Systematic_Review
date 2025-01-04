@@ -20,7 +20,8 @@ all_studies.pdf and all_studies.csv are a numbered table of all studies identifi
 ### Primary research sources for the systematic review
 primary_data.pdf and primary_data.csv are a numbered table of the studies identified applying the inclusion criteria. The table includes: the name of data extractors and date of data extraction under the column "notes"; the confirmation that the study was eligible to be included in the review; the date of data extraction and all the data extracted from each study for the reported systematic review that would be needed to replicate your analyses. This data are described in the remaining columns. We respected PLOS ONE's table guidelines. Nonetheless, due to primary_data.pdf size, we recommend to open primary_data.csv. 
 
-The files CASP_bias_analysis_paper.pdf and CASP_bias_analysis_paper.csv contain detailed results from the risk of bias assessment conducted as part of our systematic review. We applied the CASP checklist (https://casp-uk.net/casp-tools-checklists/).
+### Risk of bias
+The files CASP_bias_analysis_paper.pdf and CASP_bias_analysis_paper.csv contain detailed table showing the completed risk of bias and quality/certainty assessments for each study. We applied the CASP checklist (https://casp-uk.net/casp-tools-checklists/).
 
 ### Handling missing data
 During the screening process all the papers have been successfully retrieved. 
